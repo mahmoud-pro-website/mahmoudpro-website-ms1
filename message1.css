@@ -355,7 +355,7 @@ nav ul li {
     animation: glowing 20s linear infinite;
     transition: opacity .3s ease-in-out;
     border-radius: 10px;
-    opacity: 0;
+    opacity: 0.5;
 }
 
 /* hover */
